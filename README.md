@@ -1,0 +1,2 @@
+# Variables
+ Değişkenler. / Variables.

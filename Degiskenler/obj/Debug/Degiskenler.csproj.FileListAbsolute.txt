@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb
